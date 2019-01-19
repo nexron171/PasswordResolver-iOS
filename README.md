@@ -1,16 +1,16 @@
 # PasswordResolver-iOS
 
 Tested on iPhone X:
-- 1 ~ 0s
-- 2 ~ 0s
-- 3 ~ 0s
-- 4 ~ 0s
-- 5 ~ 0s
-- 6 ~ 0s
-- 7 ~ 0s
-- 8 ~ 0s
-- 9 ~ 1s
-- 10 ~ 2s
-- 11 ~ 9s
-- 12 ~ 33s
-- 13 ~ 😵
+- 1 ~ 0s (variants: 4)
+- 2 ~ 0s (variants: 16)
+- 3 ~ 0s (variants: 64)
+- 4 ~ 0s (variants: 256)
+- 5 ~ 0s (variants: 1024)
+- 6 ~ 0s (variants: 4096)
+- 7 ~ 0s (variants: 16384)
+- 8 ~ 0s (variants: 65536)
+- 9 ~ 1s (variants: 262144)
+- 10 ~ 2s (variants: 1048576)
+- 11 ~ 9s (variants: 4194304)
+- 12 ~ 33s (variants: 16777216)
+- 13 ~ 😵  (variants: 67108864)
